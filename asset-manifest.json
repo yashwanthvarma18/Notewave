@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Notewave/static/js/main.6bb6bd2a.js",
+    "index.html": "/Notewave/index.html",
+    "main.6bb6bd2a.js.map": "/Notewave/static/js/main.6bb6bd2a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6bb6bd2a.js"
+  ]
+}
